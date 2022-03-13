@@ -1,0 +1,29 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "alwaysShowTabs": false,
+    "copyFormatting": "none",
+    "copyOnSelect": true,
+    "launchMode": "maximized",
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "One Half Light",
+            "font": 
+            {
+                "size": 14
+            }
+        },
+        "list": 
+        [
+            {
+                "commandline": "powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            }
+        ]
+    },
+    "tabSwitcherMode": "disabled",
+    "windowingBehavior": "useAnyExisting"
+}
