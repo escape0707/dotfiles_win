@@ -1,0 +1,7 @@
+[http]
+	proxy = http://localhost:7890
+[user]
+	email = tothesong@gmail.com
+	name = escape0707
+[credential]
+	helper = manager-core
